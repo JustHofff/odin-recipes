@@ -1,1 +1,2 @@
 # odin-recipes
+This project is html code that has a list of links to redirect you to pages that describe recipes of certain dishes. This project demonstrates the use of headers, links, images, and unordered/ordered lists with html.
