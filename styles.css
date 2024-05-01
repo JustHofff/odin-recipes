@@ -1,0 +1,29 @@
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: auto;
+}
+
+.text {
+    font-family: sans-serif, serif;
+    font-size: 22px;
+}
+
+.title {
+    font-family: cursive;
+    text-align:center;
+    font-size: 52px;
+}
+
+.waffles,
+.shake,
+.chicken {
+    text-align: center;
+}
+
+.lists {
+    text-align: left;
+}
+
